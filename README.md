@@ -1,4 +1,4 @@
-# encodeuricomponent-tag
+# encodeuricomponent-tag [![dependencies Status](https://david-dm.org/alanshaw/encodeuricomponent-tag/status.svg)](https://david-dm.org/alanshaw/encodeuricomponent-tag)
 
 [Template literal tag](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals) for encoding URI component values.
 
