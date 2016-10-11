@@ -5,7 +5,7 @@
 ## Example
 
 ```js
-const encode = require('encodeuricomponent-tag')
-console.log(encode`/category/${'big horses'}?q=${'saddles & bears'}`)
+const uri = require('encodeuricomponent-tag')
+console.log(uri`/category/${'big horses'}?q=${'saddles & bears'}`)
 // Output: /category/big%20horses?q=saddles%20%26%20bears
 ```
