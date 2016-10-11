@@ -1,6 +1,6 @@
 {
   "name": "encodeuricomponent-tag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template literal tag for encoding URI component values",
   "main": "index.js",
   "scripts": {
